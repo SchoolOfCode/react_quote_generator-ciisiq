@@ -1,9 +1,11 @@
 import "../App/App.css";
 
-function Main() {
+function Main({ quote }) {
   return (
     <div className="main">
-      <main></main>
+      <main>
+        <p>Your new quote is: "{quote}"</p>
+      </main>
     </div>
   );
 }

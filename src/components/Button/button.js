@@ -1,9 +1,9 @@
 import "../App/App.css";
 
-function Button() {
+function Button({ click }) {
   return (
     <div className="button">
-      <button>New Quote</button>
+      <button onClick={click}>New Quote</button>
     </div>
   );
 }
