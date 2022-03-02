@@ -1,7 +1,15 @@
+## My mission here:
+
+Project created by my coach Jordan, from the school of code. I was having a rough week and couldn't understand 
+react and its components. Couldn't understand how to use UseState and props.
+
+_In this project I try to take an API and generate random quotes._
+
+Thank you Jordan!!
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6796473&assignment_repo_type=AssignmentRepo)
 # React: Quote Generator App
-
-<img src="./ReadMeImages/changePageLayout1.png">
 
 
 # Goal's & Task's:
