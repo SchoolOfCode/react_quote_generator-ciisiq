@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+:root {
+  --background-color: #060a0f;
+  --color: #fed31e;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+.App {
+  text-align: center;
+  background-color: var(--color);
+  max-block-size: 50%;
+}
+
+Button {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: var(--background-color);
+  padding: 0.5%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  margin-bottom: 10px;
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+}
+
+p {
+  color: var(--feedback-bg-color);
+  font-family: "Bebas Neue", cursive;
+  font-size: 50px;
+}
